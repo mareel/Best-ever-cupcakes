@@ -11,5 +11,9 @@ ul {
   text-indent: 12px;
 }
 p {
-  
+
+}
+.flashy {
+  color: red;
+  font-style: italic;
 }
