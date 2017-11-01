@@ -1,19 +1,18 @@
 h1 {
   text-align: center;
-  font-style: oblique;
-  font-weight: bold;
 }
 h2 {
   text-indent: 10px;
   font-style: italic;
 }
-ul {
-  text-indent: 12px;
+ul {}
+
 }
 p {
-  text-align: center;
+
 }
+
 .flashy {
   color: red;
-  font-style: italic;
+  text-style: italic;
 }
