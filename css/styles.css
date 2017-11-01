@@ -19,7 +19,7 @@ p {
   text-style: italic;
 }
 li.best {
-  text-shadow: 3px;
-  test-underline: 3px;
+  font-size: 20px;
+  text-style: bold;
   color: blue;
 }
