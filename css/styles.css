@@ -5,7 +5,9 @@ h2 {
   text-indent: 10px;
   font-style: italic;
 }
-ul {}
+ul {
+
+}
 
 }
 p {
@@ -15,4 +17,9 @@ p {
 .flashy {
   color: red;
   text-style: italic;
+}
+li.best {
+  text-shadow: 3px;
+  test-underline: 3px;
+  color: blue;
 }
